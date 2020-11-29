@@ -1,2 +1,9 @@
-# download_bilibili_video
-B站视频下载，可指定清晰度，可下多p
+
+# B站视频下载
+# 可指定清晰度，可下多p
+
+**将需要下载的视频链接或Bvid加到video_urls列表中**
+
+**更改quality变量可改变清晰度**
+
+
